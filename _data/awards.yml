@@ -1,0 +1,35 @@
+# Award certificates shown on the /awards/ page (newest first).
+# image: file in assets/img/awards/ — remove personal info (student ID etc.) before adding.
+- title: Challenge Winner — 2nd Prize (Track 1)
+  event: CVPR 2026 DriveX Workshop
+  note: with Donguk Kim, Yewon Song, Soonmin Hwang
+  date: May 2026
+  image: 2026-cvpr-drivex.jpg
+
+- title: Best Paper Award
+  event: ICROS 2025 Annual Conference
+  note: Lightweight VLMs for End-to-End Autonomous Driving
+  date: Jun 2025
+  image: 2025-icros-best.jpg
+
+- title: Undergraduate Student Paper Award
+  event: ICROS 2025 Annual Conference
+  note: VLM-based Anomaly Detection on Edge Devices
+  date: Jun 2025
+  image: 2025-icros-undergrad.jpg
+
+- title: Outstanding Paper Presentation Award
+  event: KSAE 2024 Annual Autumn Conference
+  note: Self-supervised Depth Completion Using Depth Anything V2
+  date: Dec 2024
+  image: 2024-ksae.jpg
+
+- title: Encouragement Award
+  event: 2024 LIMO Autonomous Driving Competition, Incheon National University
+  date: Aug 2024
+  image: 2024-limo.jpg
+
+- title: Excellence Award
+  event: Creative NTree Camp, Gachon University
+  date: Jun 2022
+  image: 2022-ntree.jpg

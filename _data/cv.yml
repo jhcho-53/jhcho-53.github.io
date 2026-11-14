@@ -52,16 +52,24 @@ cv:
         end_date: 2024-08
 
     Awards:
+      - title: Best Poster Award
+        date: 2026-09
+        awarder: Beyond-G Global Innovation Center
+        summary: Poster session, 2026 Year-3 Performance Exchange Workshop
+
       - title: CVPR 2026 DriveX Workshop Challenge — 2nd Prize (Track 1)
+        url: /assets/img/awards/2026-cvpr-drivex.jpg
         date: 2026-05
         awarder: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 
       - title: Best Paper Award
         date: 2025-06
+        url: /assets/img/awards/2025-icros-best.jpg
         awarder: ICROS (Institute of Control, Robotics and Systems)
         summary: '"Lightweight Vision-Language Models for End-to-End Autonomous Driving: An Analysis of Performance with and without Q-Former Training"'
 
       - title: Undergraduate Student Paper Award
+        url: /assets/img/awards/2025-icros-undergrad.jpg
         date: 2025-06
         awarder: ICROS (Institute of Control, Robotics and Systems)
         summary: '"VLM-based Anomaly Detection on Edge Devices"'
@@ -71,6 +79,7 @@ cv:
         awarder: Gachon University
 
       - title: Outstanding Paper Presentation Award
+        url: /assets/img/awards/2024-ksae.jpg
         date: 2024-12
         awarder: KSAE (Korean Society of Automotive Engineers)
         summary: '"Self-supervised Depth Completion Using Depth Anything V2 for Pseudo GT Generation"'
@@ -80,10 +89,12 @@ cv:
         awarder: Gachon University
 
       - title: LIMO Robot Self-Driving Competition — Encouragement Award
+        url: /assets/img/awards/2024-limo.jpg
         date: 2024-08
         awarder: Incheon National University
 
       - title: Creative NTree Camp — Excellence Award
+        url: /assets/img/awards/2022-ntree.jpg
         date: 2022-06
         awarder: Gachon University
         summary: Development of a campus carpool application

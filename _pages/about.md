@@ -33,4 +33,4 @@ My research focuses on **perception for autonomous driving**, including:
 - **Depth completion & monocular depth** — generalizable dense depth from sparse LiDAR and monocular depth priors
 - **Vision-language models for driving** — lightweight VLMs for end-to-end autonomous driving and anomaly detection on edge devices
 
-Recently, I won **2nd prize in Track 1 of the CVPR 2026 DriveX Workshop Challenge**, and my work on depth completion (OASIS-DC) has been accepted to **ICRA 2026**.
+Recently, our team won **2nd prize in Track 1 of the CVPR 2026 DriveX Workshop Challenge**, and my work on depth completion (OASIS-DC) has been accepted to **ICRA 2026**.

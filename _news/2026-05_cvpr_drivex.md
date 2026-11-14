@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:trophy: Won **2nd Prize** in **Track 1** of the **CVPR 2026 DriveX Workshop Challenge**!
+:trophy: Our team won **2nd Prize** in **Track 1** of the **CVPR 2026 DriveX Workshop Challenge**!
