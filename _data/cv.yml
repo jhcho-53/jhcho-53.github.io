@@ -1,0 +1,126 @@
+cv:
+  name: Jaehyeon Cho
+  label: Integrated M.S./Ph.D. Student, Hanyang University
+  email: whwogus53@gmail.com
+
+  social_networks:
+    - network: GitHub
+      username: jhcho-53
+    - network: LinkedIn
+      username: jaehyeon-cho-34bbaa301
+    - network: Google Scholar
+      username: qTS_x4cAAAAJ
+
+  sections:
+    Education:
+      - institution: Hanyang University
+        location: Seoul, Korea
+        area: Autonomous Engineering
+        studyType: Integrated M.S./Ph.D.
+        start_date: 2026-03
+        end_date: present
+        highlights:
+          - "Advisor: Prof. Soonmin Hwang"
+          - "IRCV Lab (Intelligent Robotics and Computer Vision Lab)"
+
+      - institution: Gachon University
+        location: Seongnam, Korea
+        area: Artificial Intelligence
+        studyType: B.S.
+        start_date: 2022-03
+        end_date: 2026-02
+        highlights:
+          - "GPA: 3.91 / 4.5"
+
+    Experience:
+      - company: Vehicle Intelligence Perception Lab, Gachon University
+        position: Research Assistant
+        location: Seongnam, Korea
+        start_date: 2023-11
+        end_date: 2026-02
+
+      - company: HMG Autonomous Driving Challenge
+        position: Team Leader
+        location: Seoul, Korea
+        start_date: 2024-10
+        end_date: 2025-02
+
+      - company: Mobiltech
+        position: Research Intern
+        location: Seoul, Korea
+        start_date: 2024-07
+        end_date: 2024-08
+
+    Awards:
+      - title: CVPR 2026 DriveX Workshop Challenge — 2nd Prize (Track 1)
+        date: 2026-05
+        awarder: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+
+      - title: Best Paper Award
+        date: 2025-06
+        awarder: ICROS (Institute of Control, Robotics and Systems)
+        summary: '"Lightweight Vision-Language Models for End-to-End Autonomous Driving: An Analysis of Performance with and without Q-Former Training"'
+
+      - title: Undergraduate Student Paper Award
+        date: 2025-06
+        awarder: ICROS (Institute of Control, Robotics and Systems)
+        summary: '"VLM-based Anomaly Detection on Edge Devices"'
+
+      - title: Undergraduate Academic Support Scholarship
+        date: 2025-01
+        awarder: Gachon University
+
+      - title: Outstanding Paper Presentation Award
+        date: 2024-12
+        awarder: KSAE (Korean Society of Automotive Engineers)
+        summary: '"Self-supervised Depth Completion Using Depth Anything V2 for Pseudo GT Generation"'
+
+      - title: Academic Excellence Scholarship
+        date: 2024-12
+        awarder: Gachon University
+
+      - title: LIMO Robot Self-Driving Competition — Encouragement Award
+        date: 2024-08
+        awarder: Incheon National University
+
+      - title: Creative NTree Camp — Excellence Award
+        date: 2022-06
+        awarder: Gachon University
+        summary: Development of a campus carpool application
+
+    Projects:
+      - name: Radio Propagation Prediction Technology for High-Speed Communications in Next-Generation Mobility
+        start_date: 2026-04
+        end_date: present
+        summary: Funded by IITP · Project Member
+
+      - name: Hanyang-MIT Beyond-G Innovation Center
+        start_date: 2026-03
+        end_date: present
+        summary: Funded by NRF · Project Member
+
+      - name: Development of Wide Semantic Map Building and Update Technology for Multi Robots in Unstructured Outdoor Environment
+        start_date: 2025-04
+        end_date: 2026-02
+        summary: Funded by TIPA (Academic-Industrial Collabo R&D Program) · Project Leader
+
+      - name: Development of Camera-based Patrol Cognitive Intelligence for Abnormal Situation Detection
+        start_date: 2024-11
+        end_date: 2025-05
+        summary: Funded by Neubility · Project Leader
+
+    Teaching:
+      - bullet: "**Teaching Assistant**, Automotive Engineering Laboratory — Hanyang University (Fall 2026)"
+      - bullet: "**Teaching Assistant**, Embedded Systems Lab — Hanyang University (Spring 2026)"
+      - bullet: "**Teaching Assistant**, Deep Learning — Gachon University (Fall 2025)"
+      - bullet: "**Teaching Assistant**, Computer Vision — Gachon University (Spring 2025)"
+      - bullet: "**Teaching Assistant**, Machine Learning — Gachon University (Fall 2024)"
+
+    Skills:
+      - name: Programming Languages
+        icon: fa-solid fa-code
+        keywords: "C, Python"
+
+      - name: Tools & Frameworks
+        icon: fa-solid fa-screwdriver-wrench
+        keywords: "PyTorch, ROS 1/2, MORAI-SIM, CARLA, Jetson"

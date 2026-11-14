@@ -1,0 +1,5 @@
+# Map co-author last names (lowercase) to their homepages, e.g.
+# "an":
+#   - firstname: ["Jhonghyun", "J."]
+#     url: https://example.com
+{}
