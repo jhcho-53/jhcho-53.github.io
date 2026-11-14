@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started my Integrated M.S./Ph.D. program at **Hanyang University**, joining the **IRCV Lab** advised by Prof. Soonmin Hwang.
+Started my Integrated M.S./Ph.D. program at **Hanyang University**, joining the **[IRCV Lab](https://ircv.hanyang.ac.kr)** advised by Prof. Soonmin Hwang.

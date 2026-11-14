@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Integrated M.S./Ph.D. Student · <a href='https://www.hanyang.ac.kr/'>Hanyang University</a> · IRCV Lab
+subtitle: Integrated M.S./Ph.D. Student · <a href='https://www.hanyang.ac.kr/'>Hanyang University</a> · <a href='https://ircv.hanyang.ac.kr'>IRCV Lab</a>
 
 profile:
   align: right
@@ -25,7 +25,7 @@ latest_posts:
   enabled: false
 ---
 
-I am an Integrated M.S./Ph.D. student in Autonomous Engineering at **Hanyang University**, advised by Prof. **Soonmin Hwang** in the **IRCV Lab** (Intelligent Robotics and Computer Vision Lab).
+I am an Integrated M.S./Ph.D. student in Autonomous Engineering at **Hanyang University**, advised by Prof. **Soonmin Hwang** in the **[IRCV Lab](https://ircv.hanyang.ac.kr)** (Intelligent Robotics and Computer Vision Lab).
 I received my B.S. in Artificial Intelligence from **Gachon University** in 2026, where I worked as a research assistant at the Vehicle Intelligence Perception Lab.
 
 My research focuses on **perception for autonomous driving**, including:
